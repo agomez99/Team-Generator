@@ -15,10 +15,10 @@ The application will prompt the user for information about the team manager and 
 
 
 Passing test
-![test passed](passTest.jpg)
+![test passed](images/passTest.jpg)
 
 
 
 HTML generated
-![html](team.jpg)
+![html](images/team.jpg)
 
